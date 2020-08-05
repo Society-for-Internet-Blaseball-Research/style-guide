@@ -3,9 +3,20 @@
 Please follow this guide for all publications and outreach issued by SIBR. External works that reference SIBR data 
 and resources do not need to follow this guide, but we recommend it.
 
-## Typography
+## Typography and Colors
 
 The logo font is [DIN Condensed Bold](https://github.com/govex/govex.github.io/tree/master/fonts/din-condensed).
+
+For abstract text in academic papers, use Helvetica.
+
+For body text in academic papers, use Palatino.
+
+The colors used in the logo are:
+
+- `#112441` (background)
+- `#D11D43` (stitching on the blaseball)
+- `#9A7D7F` (stand for the crystal blaseball)
+- `#FFFFFF` (background of the blaseball)
 
 ## Pronouns
 
