@@ -9,7 +9,7 @@ The logo font is [DIN Condensed Bold](https://github.com/govex/govex.github.io/t
 
 ## Pronouns
 
-Use the pronounced preferred by the referent. Use the singular "they", and avoid the "he/she" construct.
+Use the pronouns preferred by the referent. Use the singular "they", and avoid the "he/she" construct.
 
 List the pronouns of the authors after their name in parentheses in all academic papers ("Corvimae (she/her)").
 
