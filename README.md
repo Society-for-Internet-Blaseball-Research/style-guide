@@ -42,3 +42,7 @@ caps for "SIBR".
 "blaseball" is lowercase when referring to the splort itself. When referring to "Internet League Blaseball", always capitalize "Blaseball".
 
 When shortening "Internet League Blaseball" to "ILB" in academic contexts, prefer the use of small caps.
+
+## Miscellaneous
+
+* When referring to a specific season (e.g. "Season 7"), the word "season" should be capitalized. When talking about seasons in general or "a season" in the abstract, it should remain lowercase unless at the beginning of a sentence.
